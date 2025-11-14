@@ -4,7 +4,7 @@ This program loads a given .obj file and texture and renders the object as eithe
 
 [Project demonstration and code explanation](https://youtu.be/UwTvwdT_USw)
 
-> This project was built off a previous project I wrote for this class, so this code explanation is not comprehensive of all the changes I made to this script)
+> (This project was built off a previous project I wrote for this class, so this video is not comprehensive of all the changes I made to this script)
 
 For the most significant code the I wrote see the following scripts:
 - [main.cpp](source/main.cpp)
